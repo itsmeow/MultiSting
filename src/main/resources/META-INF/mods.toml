@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+issueTrackerURL="http://github.com/itsmeow/MultiSting/issues"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/multisting"
+logoFile="icon.png"
+credits="itsmeow for Programming, CF User itslegendary_walter for idea"
+authors="itsmeow"
+license="MIT"
+[[mods]]
+modId="multisting"
+version="${file.jarVersion}"
+displayName="MultiSting"
+description='''
+Makes the amount of times a bee can sting configurable!'''
+[[dependencies.multisting]]
+    modId="forge"
+    mandatory=true
+    versionRange="[34.1.0,)"
+    ordering="NONE"
+    side="BOTH"
