@@ -1,6 +1,6 @@
 # MultiSting
 
-![https://i.imgur.com/TFgJFnV.png](Bees flying)
+![Bees flying](https://i.imgur.com/TFgJFnV.png)
 
 **Tired of your bees running out of stinger? Want bees to hate you more?** Then this mod is for you! Make bees sting to your heart's content!
 
@@ -8,7 +8,7 @@
 
 ## Where's that pesky configuration file?
 
-![https://i.imgur.com/x7s6DnL.png](.minecraft/saves/worldname/serverconfig/multisting-server.toml)
+![.minecraft/saves/worldname/serverconfig/multisting-server.toml](https://i.imgur.com/x7s6DnL.png)
 
 ## You're gonna make me copy the configuration file / how do I make this work in modpacks?
 
